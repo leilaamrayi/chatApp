@@ -1,0 +1,2 @@
+Hello, this is a test message in General channel!
+How is everyone doing?
